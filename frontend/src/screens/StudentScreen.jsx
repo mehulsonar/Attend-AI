@@ -7,7 +7,7 @@ export default function StudentScreen(){
             <div className="card-body">
                 <h5 className="card-title mt-2" style={{color: 'white'}}>Student Portal</h5>
                 {/* <p className="card-text"></p> */}
-                <a href="#" className="btn btn-primary mt-3" style={{borderRadius: '12px'}}>Access Student Portal</a>
+                <a href="/student-register" className="btn btn-primary mt-3" style={{borderRadius: '12px'}}>Access Student Portal</a>
             </div>
         </div>
     )

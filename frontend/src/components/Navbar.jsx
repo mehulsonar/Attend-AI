@@ -3,7 +3,7 @@ import logo from "../assets/logo.png"
 export default function Navbar(){
     return (
 
-        <nav className="navbar mt-3">
+        <nav className="navbar">
             <div className="container">
                 <a className="navbar-brand nav-link" href="#">
                     <img src={logo} alt="" className="nav-logo"/>

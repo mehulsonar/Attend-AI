@@ -1,0 +1,10 @@
+| Purpose             | Color        | Hex Code  |
+| ------------------- | ------------ | --------- |
+| Main Background     | Dark Navy    | `#0F172A` |
+| Navbar/Footer       | Dark Gray    | `#111827` |
+| Cards/Portals       | Slate Dark   | `#1E293B` |
+| Secondary Cards     | Slate Medium | `#334155` |
+| Primary Accent      | Cyan         | `#06B6D4` |
+| Hero Gradient Start | Slate Dark   | `#1E293B` |
+| Hero Gradient End   | Blue         | `#2563EB` |
+| Text                | White        | `#FFFFFF` |

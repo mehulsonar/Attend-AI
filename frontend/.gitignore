@@ -38,3 +38,5 @@ coverage
 
 # OS specific
 .vscode/.DS_Store
+
+info.txt

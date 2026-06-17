@@ -1,0 +1,55 @@
+# ==========================
+# FastAPI
+# ==========================
+
+fastapi
+uvicorn[standard]
+
+# ==========================
+# Supabase
+# ==========================
+
+supabase
+python-dotenv
+
+# ==========================
+# Authentication
+# ==========================
+
+passlib[bcrypt]
+bcrypt
+python-jose[cryptography]
+
+# ==========================
+# File Upload
+# ==========================
+
+python-multipart
+
+# ==========================
+# Face Recognition
+# ==========================
+
+mediapipe
+opencv-python
+numpy
+pillow
+scikit-learn
+dlib-bin
+segno
+
+# ==========================
+# Voice Recognition
+# ==========================
+
+faster-whisper
+
+# ==========================
+# HTTP Requests
+# ==========================
+
+httpx
+
+torch
+torchvision
+torchaudio

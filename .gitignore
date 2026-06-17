@@ -40,3 +40,9 @@ coverage
 .vscode/.DS_Store
 
 info.txt
+
+venv
+.env
+node_modules
+package-lock.json
+package.json
